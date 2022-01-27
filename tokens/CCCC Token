@@ -8,4 +8,5 @@ structure that rewards holders for not selling. This is essential to fulfill the
 savings in the Cardano Ecosystem. As the community grows and evolves, we will make charitable donations to those in need as well as to the progression of decentralizded blockchain technology. CCCC will become the cornerstone of a new era in real world DeFi.",
     "totalSupply": 1000000000000000,
     "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000]
+    "decimalPlaces": 6
 }
